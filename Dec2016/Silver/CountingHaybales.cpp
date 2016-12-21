@@ -1,9 +1,6 @@
 #include <fstream>
 #include <algorithm>
 #include <vector>
-#include <assert.h>
-#include <set>
-#include <iostream>
 
 // Works on sorted array.
 inline int findUp(const std::vector<int> & v, int i) {
