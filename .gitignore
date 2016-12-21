@@ -27,3 +27,7 @@
 *.exe
 *.out
 *.app
+
+# In and out file
+*.in
+*.out
